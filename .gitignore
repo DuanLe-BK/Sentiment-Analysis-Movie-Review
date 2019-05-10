@@ -1,0 +1,14 @@
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# Don't track content of these folders
+data/
+data/*
+
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+
