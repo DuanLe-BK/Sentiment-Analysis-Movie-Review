@@ -5,8 +5,8 @@
 .fuse_hidden*
 
 # Don't track content of these folders
-data/
-data/*
+# data/
+# data/*
 
 .ipynb_checkpoints
 .ipynb_checkpoints/*
